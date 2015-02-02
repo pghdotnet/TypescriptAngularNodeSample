@@ -1,0 +1,14 @@
+{
+  "name": "Server",
+  "version": "0.0.0",
+  "description": "Server",
+  "main": "app.js",
+  "author": {
+    "name": "Josh",
+    "email": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.11.0",
+    "express": "^3.4.4"
+  }
+}
